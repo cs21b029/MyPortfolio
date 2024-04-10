@@ -23,31 +23,31 @@ const Home = () => {
                 <div className="text">Tech Stack |</div>
                 <div className="icons">
                     <div className="icon">
-                        <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+                        <img src="https://img.icons8.com/color/48/000000/react-native.png" alt=""/>
                         <p>React</p>
                     </div>
                     <div className="icon">
-                        <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+                        <img src="https://img.icons8.com/color/48/000000/html-5.png" alt=""/>
                         <p>HTML</p>
                     </div>
                     <div className="icon">
-                        <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+                        <img src="https://img.icons8.com/color/48/000000/css3.png" alt=""/>
                         <p>CSS</p>
                     </div>
                     <div className="icon">
-                        <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+                        <img src="https://img.icons8.com/color/48/000000/javascript.png" alt=""/>
                         <p>JavaScript</p>
                     </div>
                     <div className="icon">
-                        <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+                        <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt=""/>
                         <p>Node.js</p>
                     </div>
                     <div className="icon">
-                        <img src="https://img.icons8.com/ios/50/express-js.png"/>
+                        <img src="https://img.icons8.com/ios/50/express-js.png"  alt=""/>
                         <p>Express.js</p>
                     </div>
                     <div className="icon">
-                        <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+                        <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt=""/>
                         <p>MongoDB</p>
                     </div>
                 </div>
